@@ -7,33 +7,23 @@ Major Cities: Introduces three major cities—Istanbul, Ankara, and Antalya—de
 Traditional Culture: Highlights Turkey's rich cultural heritage, hospitality, and iconic dishes.
 Tourist Attractions: Features major landmarks such as the Bosphorus Strait, Cappadocia, and Pamukkale.
 Responsive Design: Ensures the webpage is visually appealing on different devices.
+
 Technologies Used
 HTML: Structure of the webpage.
 CSS: Styling and layout, including custom fonts from Google Fonts.
 Images: Local images and external GIFs for a visual experience.
+
 Setup Instructions
-Clone the repository or download the project files:
-
-bash
-Copy code
+1.Clone the repository or download the project files:
 git clone https://github.com/your-username/my-home-town.git
-Navigate to the project directory:
-
-bash
-Copy code
+2.Navigate to the project directory:
 cd my-home-town
-Open the project in your preferred code editor.
-
-Ensure the images folder contains the required images for the webpage.
-
-Open the index.html file in a browser to view the project:
-
-bash
-Copy code
+3.Open the project in your preferred code editor.
+4.Ensure the images folder contains the required images for the webpage.
+5.Open the index.html file in a browser to view the project:
 open index.html
+
 Folder Structure
-graphql
-Copy code
 my-home-town/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS file for styling
@@ -47,9 +37,9 @@ my-home-town/
 │   ├── cappadocia.jpeg
 │   └── pamukkala.jpeg
 └── README.md           # Project documentation
+
 Google Fonts Used
 The project includes various Google Fonts:
-
 Bungee Tint
 Aclonica
 Nunito Sans
