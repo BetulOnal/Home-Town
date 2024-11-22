@@ -23,21 +23,6 @@ cd my-home-town
 5.Open the index.html file in a browser to view the project:
 open index.html
 
-Folder Structure
-my-home-town/
-├── index.html          # Main HTML file
-├── styles.css          # CSS file for styling
-├── images/             # Folder for image assets
-│   ├── header2.jpeg
-│   ├── istanbul-2.jpeg
-│   ├── ankara.jpeg
-│   ├── antalya.jpeg
-│   ├── bosphorusStrait.jpeg
-│   ├── anitkabir.jpeg
-│   ├── cappadocia.jpeg
-│   └── pamukkala.jpeg
-└── README.md           # Project documentation
-
 Google Fonts Used
 The project includes various Google Fonts:
 Bungee Tint
